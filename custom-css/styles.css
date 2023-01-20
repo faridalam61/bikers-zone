@@ -1,0 +1,22 @@
+.bz-nav-bg{
+    background: #264653 !important;
+}
+
+.bz-nav-link{
+    color: #fff;
+}
+
+.bz-nav-brand{
+    color: #fff;
+}
+
+.bz-carousel-bg{
+    background-color: #264653;
+}
+
+.bz-slide{
+    height: 500px;
+}
+.bi-star-fill, .bi-star-half{
+    color: #E77C40;
+}
